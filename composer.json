@@ -6,12 +6,12 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "jlapp",
-            "email": "jordan@jordanlapp.com"
+            "name": "smartbackend",
+            "email": "admin@smartbackend.com"
         }
     ],
     "require": {
-        "php": ">=5.3.0",
+        "php": ">=5.6.0",
         "zircote/swagger-php": "*"
     },
     "autoload": {
